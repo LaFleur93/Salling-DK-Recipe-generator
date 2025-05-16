@@ -1,5 +1,5 @@
 # Salling-DK-Recipe-generator
-AI-powered recipe generator using discounted Salling products and fridge items for smarter, sustainable cooking
+AI-powered recipe generator using discounted Salling products and fridge items for smarter, sustainable cooking. This application demonstrates how modern AI can be seamlessly integrated into a basic Tkinter interface, delivering accurate and practical results. It highlights the potential for everyday tools to drive meaningful, real-world impact—such as reducing food waste, saving money, and promoting sustainability.
 
 ## Location-Based Discount Discovery
 A user living in Copenhagen has the ability to set their location and desired walk/travel distance. The application connects to Salling Group's "Anti Food Waste API" to retrieve all discounted products available within that zone.
@@ -26,7 +26,3 @@ The third functionality allows the user to input any recipe they have in mind. T
 A pop-up screen also displays how much money the user is saving by purchasing discounted items, along with an estimate of the kgCO₂ emissions avoided by preventing food waste.
 
 <div align="center"><img src="https://github.com/user-attachments/assets/cac75a6d-7c70-4de9-9074-4daa9b555883" alt="image" width="300"/></div>
-
-## Simple AI with real-world impact
-
-This application demonstrates how modern AI can be seamlessly integrated into a basic Tkinter interface, delivering accurate and practical results. It highlights the potential for everyday tools to drive meaningful, real-world impact—such as reducing food waste, saving money, and promoting sustainability.
